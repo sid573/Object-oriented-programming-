@@ -1,0 +1,14 @@
+Implement the function void insert_after(node *t,int v)
+
+It should create a new node with 'v' as data and insert that node after the node pointed to by the pointer 't'
+
+
+Implement the function void insert_sorted(int v)
+
+If the data in the list are alreday soerted in ascending order from left to right, then this function should create a new node with data 'v' and insert it in a position such that the new list is still sorted.
+
+Modify only the following file: list_insort.cpp
+DO NOT modify the following files: main.cpp,list.h,list_other.cpp
+compile using commandline: g++ -o sort main.cpp list_other.cpp list_insort.cpp
+test using : ./sort < inputn   (where n = 1,2,3 etc.)
+output must match the file "outputn" (for n = 1,2,3 etc.)

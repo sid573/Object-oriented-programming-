@@ -1,0 +1,36 @@
+Demonstration of doubly linked list
+Enter one the follwing commands
+ if - to insert an integer at the front
+ df - to delete the integer at the front
+ ib - to insert an integer at the back
+ db - to delete the integer at the back
+ p - to print the list
+ q - to quit
+Enter command
+Enter value
+1 Inserted at Back
+Enter command
+Enter value
+3 Inserted at Back
+Enter command
+Enter value
+5 Inserted at Back
+Enter command
+Enter value
+7 Inserted at Back
+Enter command
+Enter value
+9 Inserted at Back
+Enter command
+1 Deleted at Front
+Enter command
+3 Deleted at Front
+Enter command
+5 Deleted at Front
+Enter command
+7 Deleted at Front
+Enter command
+9 Deleted at Front
+Enter command
+Error: Underflow
+Enter command

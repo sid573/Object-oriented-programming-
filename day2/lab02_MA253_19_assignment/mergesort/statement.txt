@@ -1,0 +1,7 @@
+Implement merge sort.
+
+Modify only the following file: merge_sort.cpp
+DO NOT modify the following files: main.cpp, merge_sort.h
+Compile with the following commandline: g++ -o sort main.cpp merge_sort.cpp
+Test with the following commandline: ./sort < input1
+Yor output must match the following file: output1

@@ -1,0 +1,9 @@
+Implement push_back() and pop_back() for circular doubly linked list.
+The push_front() and pop_front() are already implemented.
+You may get an idea from that code.
+
+Modify only the following file: list_pushpop.cpp
+DO NOT modify the following filesr: main.cpp,list.h,list_other.cpp
+Compile using commandline: g++ -o list main.cpp list_other.cpp list_pushpop.cpp
+Test your program using: ./list < inputn  (where n = 1,2,3 etc.)
+output must mach the corresponding "outputn" (for n = 1,2,3 etc.) 

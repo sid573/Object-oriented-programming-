@@ -1,0 +1,43 @@
+Demonstration of doubly linked list
+Enter one the follwing commands
+ if - to insert an integer at the front
+ df - to delete the integer at the front
+ ib - to insert an integer at the back
+ db - to delete the integer at the back
+ p - to print the list
+ q - to quit
+Enter command
+Enter value
+5 Inserted at Front
+Enter command
+Enter value
+3 Inserted at Front
+Enter command
+Enter value
+7 Inserted at Front
+Enter command
+->7->3->5
+Enter command
+Enter value
+6 Inserted at Back
+Enter command
+Enter value
+2 Inserted at Back
+Enter command
+Enter value
+8 Inserted at Back
+Enter command
+->7->3->5->6->2->8
+Enter command
+7 Deleted at Front
+Enter command
+3 Deleted at Front
+Enter command
+->5->6->2->8
+Enter command
+8 Deleted at Back
+Enter command
+2 Deleted at Back
+Enter command
+->5->6
+Enter command
